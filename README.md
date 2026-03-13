@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&text=Yartha%20Vinutha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20Student%20|%20Tech%20Explorer&descAlignY=65&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0f2027,100:203a43&text=Yartha%20Vinutha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Software%20Engineering%20%7C%20Aspiring%20Developer&descAlignY=70&descSize=18" width="100%" />
 </p>
-
 ---
 
 ##  About Me
