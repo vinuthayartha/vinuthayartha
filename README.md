@@ -81,4 +81,4 @@ Embedded system built using **STM32F401** to monitor medical storage conditions.
 # 🌐 Connect
 
 📧 Email: vinuthayartha@gmail.com  
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+💻 GitHub: https://github.com/vinuthayartha
